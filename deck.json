@@ -194,6 +194,16 @@
             "guid": "kQ+bc|ttS5",
             "note_model_uuid": "3001f933-b39a-11f1-860e-60e9aa6f168a",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Test #67",
+                "6767<br>"
+            ],
+            "guid": "gK]6C-pODr",
+            "note_model_uuid": "3001f933-b39a-11f1-860e-60e9aa6f168a",
+            "tags": []
         }
     ],
     "reviewLimit": null,
