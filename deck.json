@@ -174,6 +174,16 @@
             "guid": "I?3A}R6W)y",
             "note_model_uuid": "3001f933-b39a-11f1-860e-60e9aa6f168a",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "NewCard",
+                "NewCADDRD"
+            ],
+            "guid": "Jqj?=YdYF6",
+            "note_model_uuid": "3001f933-b39a-11f1-860e-60e9aa6f168a",
+            "tags": []
         }
     ],
     "reviewLimit": null,
