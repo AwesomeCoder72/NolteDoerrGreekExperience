@@ -301,6 +301,16 @@
             "guid": "dO;jmN4>t4",
             "note_model_uuid": "1d4ff6ec-b39a-11f1-be98-962098e7d7c6",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Found the file",
+                "celebrate!!! yay"
+            ],
+            "guid": "i&;?%vxm4.",
+            "note_model_uuid": "1d4ff6ec-b39a-11f1-be98-962098e7d7c6",
+            "tags": []
         }
     ],
     "reviewLimit": null,
